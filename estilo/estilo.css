@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/08/2016, 13:49:50
+    Author     : niel
+*/
+
+body {
+	background:  aqua;
+
+}
+nav {
+    background: #c20000 url("http://temdetudoprogramas.com/templates/modelo01/topo/bg_menu_pag.png") repeat-x scroll center bottom;
+    border-radius: 7px;
+    color: #fff;
+    height: 35px;
+    list-style: outside none none;
+    margin: 0 10px;
+    text-align: center;
+}
+
+
+.but-primary {
+color: #fff;
+background-color: #0068B4;
+}
+ 
+.but-success {
+color: #fff;
+background-color: #009835;
+}
+ 
+.but-error {
+color: #fff;
+background-color: #CC0000;
+}
+ 
+.but-warning {
+color: #fff;
+background-color: #F28E00;
+}
+
+
+
+button.btn, input.btn[type="submit"] {
+}
+
+section {
+    margin: 10px; /* margens do box-model*/
+    padding: 5px; /* espaçamento interno do box-model*/
+    background: #fff; /* cor de fundo do box-model */
+    border-radius: 7px;/* arrendondar os cantos do box-model*/
+}
+.btn-1 {
+    background: #f25c27 none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 0;
+    box-shadow: none;
+    color: #fff;
+    padding: 5px 14px;
+    text-shadow: none;
+    transition: all 0.3s ease 0s;
+}
+
+
+.form-horizontal{
+    
+    background:  #0068B4;
+}
+
+
+
+
+select.minha-classe {
+    font-family: 'Verdana', sans-serif;
+    font-size: 14px;
+}
+
+select {
+    font-family: 'Verdana', sans-serif;
+    font-size: 14px;
+}
