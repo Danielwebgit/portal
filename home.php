@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <section>
+<!--Aprendendo na raça essa bagaça toda-->
    
     <h1> Página Inicial</h1>
    <h3>Regras para reserva de horários  no laboratório:</h3>
